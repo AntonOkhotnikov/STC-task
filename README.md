@@ -19,7 +19,8 @@ pip install python_speech_features
 3. **prepare_test_set_and_predict.ipynb**
 - Results will be saved in the text file `result.txt`
 
-### Libraries versions
+### Python and libraries versions
+- python                    3.6.3
 - cython                    0.28.3
 - ipython                   6.4.0
 - jupyter                   1.0.0
